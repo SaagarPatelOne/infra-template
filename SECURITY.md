@@ -15,4 +15,6 @@ Fallback path:
 
 ## Scope
 
-This is the default security guidance for repositories created from this template. A repository may replace it with a more specific policy later.
+This is the default security guidance for repositories created from this infrastructure template.
+
+If the repository touches deployment credentials, cloud resources, networking, identity, or secret-management systems, replace this file with a more specific policy as early as practical.
